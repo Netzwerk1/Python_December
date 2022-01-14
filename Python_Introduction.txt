@@ -1,0 +1,39 @@
+
+Python:-
+Python is a popular programming language.
+Python can be used on a server to create web applications.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development.
+
+
+Why Python:-
+Python works on different platforms (Windows, Mac, Linux etc).
+Python has a simple syntax similar to the English language.
+Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+Python can be treated in a procedural way, an object-oriented way or a functional way.
+It provides extensive support libraries(Django for web development, Pandas for data analytics etc)
+
+
+
+Python Indentation
+Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. 
+Other programming languages often use curly-brackets for this purpose.
+Python uses indentation  to highlight the blocks of code. Whitespace is used for  indentation  in Python. All statements with the same distance to the right belong to the same block of code. If a block has to be more deeply nested, it is simply indented further to the right. You can understand it better by looking at the following lines of code.
+
+Indentation refers to the spaces at the beginning of a code line.
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
+
+
+Python Comments
+Comments are useful information that the developers provide to make the reader understand the source code. 
+It explains the logic or a part of it used in the code. There are two types of comment in Python:
+Single line comments
+Multi-line string as comment
+
+
+
+
+
+
