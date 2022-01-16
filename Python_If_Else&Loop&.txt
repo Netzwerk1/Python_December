@@ -1,0 +1,60 @@
+
+Python supports the usual logical conditions from mathematics:
+Equals: a == b
+Not Equals: a != b
+Less than: a < b
+Less than or equal to: a <= b
+Greater than: a > b
+Greater than or equal to: a >= b
+
+
+If statement, Elif statement & Else statements:
+An "if statement" is written by using the if keyword.
+The elif keyword is pythons way of saying "if the previous conditions were not true, then try this condition".
+The else keyword catches anything which isn't caught by the preceding conditions.
+Note: You can also have an else without the elif.
+
+And
+The and keyword is a logical operator, and is used to combine conditional statements:
+Example
+Test if a is greater than b, AND if c is greater than a:
+
+Or
+The or keyword is a logical operator, and is used to combine conditional statements:
+Example
+Test if a is greater than b, OR if a is greater than c:
+
+Nested if statements
+You can have if statements inside if statements, this is called nested if statements.
+
+Python Loops:
+Python has two primitive loop commands:
+while loops
+for loops
+
+
+The While Loops:
+With the while loop we can execute a set of statements as long as a condition is true.
+The while loop requires relevant variables to be ready, in this example we need to define an indexing variable, i, which we set to 1.
+
+Break Statements-
+With the break statement we can stop the loop even if the while condition is true.
+
+Continue Statement - 
+With the continue statement we can stop the current iteration, and continue with the next.
+
+Python For Loops:
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+
+
+
+
+
+
+
+
+
+
+
+
