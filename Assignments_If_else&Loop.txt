@@ -1,4 +1,4 @@
-You can also have an else without the elif:
+Assignments:
 
 1. Print "Hello Netzwerk Academy" if a is greater than b.
 2. Print "Hello Netzwerk Academy" if a is not equal to b.
@@ -10,7 +10,7 @@ You can also have an else without the elif:
 8. Loop through the items in the fruits list.
  fruits = ["apple", "banana", "mango"]
 9. In the loop, when the item value is "banana", jump directly to the next item.
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "mango"]
 10. Exit the loop when x is "banana".
 fruits = ["apple", "banana", "mango"]
 
