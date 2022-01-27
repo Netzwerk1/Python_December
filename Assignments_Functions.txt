@@ -1,0 +1,10 @@
+
+1. Create a function with the name - Myname and print your name inside the function.
+2. Call the above function.
+3. What is the difference between parameter and argument
+4. Create a function with the name - myfunction
+   pass 2 parameters city, state
+   pass 2 argumentes -  your city and state name 
+
+
+
