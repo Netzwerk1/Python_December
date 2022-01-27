@@ -17,7 +17,7 @@ Create & print a dictionary conataining the following values:
 
 What is the difference between
 1: List and tuple
-2: Set and dictionary
+2: Set and dictionary 
 3: List and set
 
 
