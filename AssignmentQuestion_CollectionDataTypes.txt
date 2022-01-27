@@ -1,0 +1,26 @@
+
+
+Collection Data Types:
+
+Check the length and data types of the following:
+Mydata1 = ["Mango", True, 7, 8, 9]
+Mydata2 = [1, 5, 7, 9, 3]
+Mydata3 = ("Mango", 700, 1000, "Banana")
+Mydata4 = {True, False, False}
+
+Create and print a list containing 4 elements of different data types and check the length of the list.
+
+Create & print a dictionary conataining the following values:
+"Employee id": "100041",
+"Employee name": "Rohan",
+"Country": "India"
+
+What is the difference between
+1: List and tuple
+2: Set and dictionary
+3: List and set
+
+
+
+
+
